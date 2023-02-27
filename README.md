@@ -29,7 +29,7 @@ Remember to generate a serial number for iServices!
 | LAN | ✅ |
 | Audio | ✅ |
 | Wi-Fi | ✅ |
-| Bluetooth | ❌ |
+| Bluetooth | ✅ |
 | Webcam | ✅ |
 | iServices | ✅ |
 | Sleep/wake | ✅ |

@@ -6,6 +6,8 @@ Dell Latitude laptops are typically used in enterprise and built by a hardware a
 
 Remember to generate a serial number for iServices!
 
+Combo Jack installer is included to enable the 3.5mm headphone jack (with EarPod support!).
+
 ## Laptop specs
 
 | Component | Spec |
@@ -27,7 +29,7 @@ Remember to generate a serial number for iServices!
 | ----- | ----- |
 | Graphics acceleration | ✅ |
 | LAN | ✅ |
-| Audio | ✅ |
+| Audio (including 3.5mm jack) | ✅ |
 | Wi-Fi | ✅ |
 | Bluetooth | ✅ |
 | Webcam | ✅ |

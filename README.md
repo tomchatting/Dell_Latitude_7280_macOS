@@ -1,6 +1,6 @@
 # Dell Latitude 7280 macOS
 
-OpenCore files for my Dell Latitude 7280, currently booting macOS Monterey 12.6.3
+OpenCore files for my Dell Latitude 7280, currently booting macOS Ventura 13.2.1
 
 Dell Latitude laptops are typically used in enterprise and built by a hardware asset manager to meet business demands. This means that each Dell Latitude may be slightly different depending on the business it came from. Check your specs before you blindly use this EFI, and consider adding -v to the boot-args to diagnose any issues. YMMV.
 
@@ -20,8 +20,8 @@ Combo Jack installer is included to enable the 3.5mm headphone jack (with EarPod
 | Wi-Fi + Bluetooth | Intel 4MPRF |
 | NVMe | SAMSUNG MZNLN128HAHQ-000H1 128 GB |
 | SmBios | MacBookPro 14,1 |
-| BootLoader | OpenCore 0.8.3 |
-| macOS | Monterey 12.6.3 |
+| BootLoader | OpenCore 0.9.0 |
+| macOS | Ventura 13.2.1 |
 
 ## Working/not working
 

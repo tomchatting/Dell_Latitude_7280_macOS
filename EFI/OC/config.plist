@@ -198,6 +198,8 @@
 				<data>AACQAA==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
+				<key>AAPL,GfxYTile</key>
+				<data>AQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>

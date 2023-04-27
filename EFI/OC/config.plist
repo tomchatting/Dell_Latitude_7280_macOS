@@ -951,7 +951,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string> keepsyms=1 swd_panic=1 alcid=5 wegnoegpu</string>
+				<string> keepsyms=1 swd_panic=1 wegnoegpu</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1017,7 +1017,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C027412074NHWVPUE</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1031,7 +1031,7 @@
 			<key>SystemSerialNumber</key>
 			<string></string>
 			<key>SystemUUID</key>
-			<string>74DEAB91-8FFB-4148-AF48-688670D2B932</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
